@@ -9,7 +9,8 @@ import './styles/resets.scss'
 
 alert("I EXIST in the entry")
 
-export{
-    checkForName,
-    handleSubmit
+export {
+ checkForName,
+ handleSubmit
 }
+
